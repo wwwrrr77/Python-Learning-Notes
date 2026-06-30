@@ -12,18 +12,20 @@
 # s.insert(1,80)
 # print(s)
 # 定义一个空列表
-s=[]
-for i in range(10):
-    num=int(input("请输入一个整数"))
-    s.append(num)
-s.sort()
-print(s)
-print("最小值为：",s[0])
-print("最大值为：",s[9])
-sum=0
-for i in s:
-    sum+=i
-print(sum/10)
+# s=[]
+# for i in range(10):
+#     num=int(input("请输入一个整数"))
+#     s.append(num)
+# s.sort()
+# print(s)
+# print("最小值为：",s[0])
+# print("最大值为：",s[9])
+# sum=0
+# for i in s:
+#     sum+=i
+# print(sum/10)
+
+
 
 
 
